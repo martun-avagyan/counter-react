@@ -1,4 +1,3 @@
-import React, { useState } from "react";
 import Counter from "./Counter";
 import ToDo from "./ToDo";
 
